@@ -11,7 +11,7 @@ This is the repo of my cv, scroll down for english
 ## Képzettség
 
 **Junior Data Scientist Képzés**  
-_[Oktatási intézmény neve]_ | _2023_  
+_[Data36](https://data36.com/)_ | _2023_  
 - 12 hetes intenzív program során mélyrehatóan megismertem az SQL, Bash és Python alapjait.
 - A képzés második felében egy fiktív startup számára nyújtottam tanácsokat üzleti döntések meghozatalában.
 - Eredményként képes lettem az adatelemzési és programozási ismereteket valós üzleti problémák megoldásában alkalmazni.
