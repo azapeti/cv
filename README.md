@@ -36,6 +36,12 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 
 ---
 
+## Projektek
+
+- **[bigquery-python-bash-automation:](https://github.com/azapeti/bigquery-python-bash-automation)** Historikus GA4 adatok gyűjtése Python BigQuery lekérdezéssel, Bash és Crontab automatizálással a 60 napos limit kiterjesztésére.
+
+---
+
 ## Nyelvtudás
 
 - **Magyar:** Anyanyelvi szint
@@ -75,6 +81,12 @@ _Freelance, Self-Taught Learning_ | _2024 - Present_
 - **Google Analytics and BigQuery:** Analyzed raw data to support business decision-making.
 - **Machine Learning Techniques:** Studied and applied the basics of Decision Tree, Random Forest, and XGBoost on company data.
 - **NLP (Natural Language Processing):** Analyzed open-ended survey responses using data science tools and applied NLP techniques.
+
+---
+
+## Projects
+
+- **[bigquery-python-bash-automation:](https://github.com/azapeti/bigquery-python-bash-automation)** Collect historical Google Analytics data using Python BigQuery queries, automated with Bash and Crontab to extend the 60-day limit.
 
 ---
 
