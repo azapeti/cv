@@ -30,7 +30,7 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 
 ## Készségek
 
-- **Programozási nyelvek:** Python (alapok), SQL (alapok), Bash (alapok)
+- **Programozási nyelvek:** Python, SQL, Bash
 - **Data Science eszközök:** Google Analytics, BigQuery, Machine Learning alapok (Decision Tree, Random Forest, XGBoost)
 - **Egyéb készségek:** Adatelemzés, Üzleti elemzés, NLP (Natural Language Processing) technikák
 
@@ -92,7 +92,7 @@ _Freelance, Self-Taught Learning_ | _2024 - Present_
 
 ## Skills
 
-- **Programming Languages:** Basic Python, SQL, Bash
+- **Programming Languages:** Python, SQL, Bash
 - **Data Science Tools:** Google Analytics, BigQuery, Basic Machine Learning (Decision Tree, Random Forest, XGBoost)
 - **Other Skills:** Data Analysis, Business Analysis, NLP (Natural Language Processing) techniques
 
