@@ -52,7 +52,7 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 ## További információk
 
 - Folyamatosan képzem magam a legújabb data science technikák terén.
-- Nagyon érdekel az adatelemzés és annak üzleti alkalmazása. Jelenleg a [Data Talks Club Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) kurzusát végzem, hogy tovább mélyítsem a tudásomat.v
+- Nagyon érdekel az adatelemzés és annak üzleti alkalmazása. Jelenleg a [Data Talks Club Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) kurzusát végzem, hogy tovább mélyítsem a tudásomat.
 
 
 ---
