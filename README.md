@@ -38,7 +38,7 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 
 ## Projektek
 
-- **[Munkavállalói Lemorzsolódás Előrejelzése](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/main/07_midterm_project)**
+- **[Munkavállalói Lemorzsolódás Előrejelzése](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/edit_README/07_midterm_project)**
 Gépitanulási modelleket (pl. Random Forest, XGBoost) készítettem lemorzsolódás előrejelzésére, optimalizáltam teljesítményüket és Docker konténerben telepítettem a megoldást.
 - **[bigquery-python-bash-automation](https://github.com/azapeti/bigquery-python-bash-automation)**
 Historikus GA4 adatok gyűjtése Python BigQuery lekérdezéssel, Bash és Crontab automatizálással a 60 napos limit kiterjesztésére.
@@ -88,7 +88,7 @@ _Freelance, Self-Taught Learning_ | _2024 - Present_
 
 ## Projects
 
-- **[Employee Attrition Prediction:](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/main/07_midterm_project)**
+- **[Employee Attrition Prediction:](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/edit_README/07_midterm_project)**
 Built machine learning models (e.g., Random Forest, XGBoost) to predict employee attrition, optimized performance through hyperparameter tuning, and deployed the solution in a Docker container.
 - **[Bigquery-python-bash-automation:](https://github.com/azapeti/bigquery-python-bash-automation)**
 Collect historical Google Analytics data using Python BigQuery queries, automated with Bash and Crontab to extend the 60-day limit.
