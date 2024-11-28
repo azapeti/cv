@@ -39,7 +39,7 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 ## Készségek
 
 - **Programozási nyelvek:** Python, SQL, Bash
-- **Data Science eszközök:** Google Analytics, BigQuery, Machine Learning alapok (Decision Tree, Random Forest, XGBoost)
+- **Data Science eszközök:** Pandas, NumPy, Scikit-learn, Google Analytics, BigQuery, Machine Learning alapok (Decision Tree, Random Forest, XGBoost)
 - **Egyéb készségek:** Adatelemzés, Üzleti elemzés, NLP (Natural Language Processing) technikák
 
 ---
@@ -113,7 +113,7 @@ Collect historical Google Analytics data using Python BigQuery queries, automate
 ## Skills
 
 - **Programming Languages:** Python, SQL, Bash
-- **Data Science Tools:** Google Analytics, BigQuery, Basic Machine Learning (Decision Tree, Random Forest, XGBoost)
+- **Data Science Tools:** Pandas, NumPy, Scikit-learn, Google Analytics, BigQuery, Basic Machine Learning (Decision Tree, Random Forest, XGBoost)
 - **Other Skills:** Data Analysis, Business Analysis, NLP (Natural Language Processing) techniques
 
 ---
