@@ -3,7 +3,7 @@ This is the repo of my cv, scroll down for english
 
 # Önéletrajz
 
-**Név:** Rikk Péter 
+**Név:** Rikk Péter  
 **Elérhetőség:** [LinkedIn](https://www.linkedin.com/in/p%C3%A9ter-rikk-b848901a2/)
 
 ---
@@ -15,6 +15,14 @@ _[Data36](https://data36.com/)_ | _2024_
 - 12 hetes intenzív program során mélyrehatóan megismertem az SQL, Bash és Python alapjait.
 - A képzés második felében egy fiktív startup számára nyújtottam tanácsokat üzleti döntések meghozatalában.
 - Eredményként képes lettem az adatelemzési és programozási ismereteket valós üzleti problémák megoldásában alkalmazni.
+
+**MSc diploma**  
+_[Szent István Egyetem](https://www.szie.hu/)_ | _2017_  
+
+**BSc diploma**  
+_[Budapesti Corvinus Egyetem](https://www.uni-corvinus.hu/)_ | _2015_
+
+
 
 ---
 
@@ -74,6 +82,13 @@ _[Data36](https://data36.com/)_ | _2024_
 - In the second half of the training, I provided business decision-making advice to a fictional startup.
 - As a result, I became proficient in applying data analysis and programming skills to solve real-world business problems.
 
+**Master's Degree (MSc)**  
+_[Szent István University](https://www.szie.hu/)_ | _2017_  
+
+**Bachelor's Degree (BSc)**  
+_[Corvinus University of Budapest](https://www.uni-corvinus.hu/)_ | _2015_
+
+
 ---
 
 ## Professional Experience
@@ -105,7 +120,7 @@ Collect historical Google Analytics data using Python BigQuery queries, automate
 
 ## Language Proficiency
 
-- **Hungarian:** Native
+- **Hungarian:** Native  
 - **English:** Intermediate (B2)
 
 ---
@@ -114,4 +129,3 @@ Collect historical Google Analytics data using Python BigQuery queries, automate
 
 - I am continuously educating myself in the latest data science techniques.
 - I'm very interested in data analysis and its business applications. Currently, I'm taking the [Data Talks Club Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) course to deepen my knowledge further.
-
