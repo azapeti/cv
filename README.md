@@ -3,7 +3,7 @@
 # Önéletrajz
 
 **Név:** Rikk Péter  
-**Elérhetőség:** [LinkedIn](https://www.linkedin.com/in/p%C3%A9ter-rikk-b848901a2/)
+**Elérhetőség:** [LinkedIn](https://www.linkedin.com/in/peter-rikk-data/)
 
 ---
 
@@ -73,7 +73,7 @@ Historikus GA4 adatok gyűjtése Python BigQuery lekérdezéssel, Bash és Cront
 # Resume
 
 **Name:** Péter Rikk  
-**Contact Information:** [LinkedIn](https://www.linkedin.com/in/p%C3%A9ter-rikk-b848901a2/)
+**Contact Information:** [LinkedIn](https://www.linkedin.com/in/peter-rikk-data/)
 
 ---
 
