@@ -48,7 +48,10 @@ _Freelance, Autodidakta Tanulás_ | _2024 - Jelenleg_
 
 ## Projektek
 
-- **[Munkavállalói Lemorzsolódás Előrejelzése](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/edit_README/07_midterm_project)**  
+- **[Gyógyszertípus előrejelzés:](https://github.com/azapeti/ml-zoomcamp-homeworks-and-projects/tree/main/12_capstone_project_1)**
+A projekt célja egy multiklasszifikációs modell létrehozása, amely a páciensek demográfiai és klinikai adatai (pl. életkor, vérnyomás, koleszterinszint, nátrium-kálium arány) alapján képes előre jelezni a megfelelő gyógyszerkategóriát.
+
+- **[Munkavállalói lemorzsolódás előrejelzése](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/edit_README/07_midterm_project)**  
 Gépitanulási modelleket (pl. Random Forest, XGBoost) készítettem lemorzsolódás előrejelzésére, optimalizáltam teljesítményüket és Docker konténerben telepítettem a megoldást.  
 
 - **[bigquery-python-bash-automation](https://github.com/azapeti/bigquery-python-bash-automation)**  
@@ -118,11 +121,14 @@ _Freelance, Self-Taught Learning_ | _2024 - Present_
 
 ## Projects
 
+- **[Drug Classification Project:](https://github.com/azapeti/ml-zoomcamp-homeworks-and-projects/tree/main/12_capstone_project_1)**
+Developed a multiclass classification model to predict drug categories for patients based on features like age, blood pressure, and cholesterol.
+
 - **[Employee Attrition Prediction:](https://github.com/azapeti/ml-zoomcamp-homeworks/tree/edit_README/07_midterm_project)**  
 Built machine learning models (e.g., Random Forest, XGBoost) to predict employee attrition, optimized performance through hyperparameter tuning, and deployed the solution in a Docker container.  
 
 - **[Bigquery-python-bash-automation:](https://github.com/azapeti/bigquery-python-bash-automation)**  
-Collect historical Google Analytics data using Python BigQuery queries, automated with Bash and Crontab to extend the 60-day limit.  
+Collect historical Google Analytics data using Python BigQuery queries, automated with Bash and Crontab to extend the 60-day limit.
 
 ---
 
