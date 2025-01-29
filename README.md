@@ -26,7 +26,7 @@ _Data analysis | Python | SQL | Bash | Machine Learning | Visualization_
   - [Automating historical data collection from Google Analytics via BigQuery using Python, Bash, and Crontab.](https://github.com/azapeti/bigquery-python-bash-automation)
 
 ### Corvinus University & Szent István University - Budapest, Hungary
-- **BSc & MSc in Horticultural Engineering**
+- **BSc & MSc in Horticultural Engineering** (2011-2017)
 - Specialization: Genetics and Mushroom cultivation
 
 ---
